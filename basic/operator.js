@@ -36,3 +36,29 @@
     6) %=
     7) **=    
 */
+
+// JavaScript Logical Operators 3 
+/*
+    1) && 
+    2) || 
+    3) !
+*/
+
+// JavaScript Type Operators 2
+/*
+    typeof = Returns the type of a variable
+    instanceof	Returns true if an object is an instance of an object type
+*/
+
+//JavaScript Bitwise Operators 7
+
+/*
+    Operator	Description	
+        &	    AND	        
+        |	    OR	        
+        ~	    NOT	      
+        ^	    XOR	       
+        <<	    Zero fill left shift
+        >>	    Signed right shift
+        >>>	    Zero fill right shift
+*/
