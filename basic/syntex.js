@@ -32,7 +32,7 @@ let firstName = "firstName" // valid
 const middleName = "middleName" // valid
 
 /* 
-    Invalid Let or LET Const or CONST 
+    Invalid Let or LET and Const or CONST 
 */
 
 console.log(LastName,lastName,lastname);
