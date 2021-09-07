@@ -69,3 +69,24 @@ const PI = 3
 // let PI = 5;
 // var PI = 7
 console.log(PI);
+
+const cars = ['proton','toyota','bmw']
+// cars = ['audi','honda','maruti']
+cars.push("audi")
+
+console.log(cars);
+
+const carDetails = {
+    type:"Fiat",
+    model:500,
+    color:"white"
+}
+
+console.log(carDetails);
+
+carDetails.type = "Premio"
+
+console.log(carDetails);
+
+console.log(evanVar); // Undefined
+evanVar = "EVAN VARIABLE"
