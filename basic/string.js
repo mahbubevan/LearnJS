@@ -24,7 +24,7 @@ console.log(backspace);
 // String Methods
 
 // String Length 
-let string = "On a Rainy Day rainy day it rains all day long."
+let string = "On a RAIN Day rainy day it rains all day long."
 console.log(string);
 let totalLength = string.length
 console.log(totalLength);
@@ -46,3 +46,16 @@ console.log(subedString);
 
 let subbedStr = string.substr(3,10)
 console.log(subbedStr); // a Rainy Da 
+
+// Replace
+let replacedStr = string.replace("RAIN","evan")
+console.log(replacedStr);
+
+// LowerCaes UpperCase 
+let convertedUpper = string.toUpperCase()
+console.log(convertedUpper);
+
+let convertedLower = string.toLowerCase()
+console.log(convertedLower);
+
+// 
